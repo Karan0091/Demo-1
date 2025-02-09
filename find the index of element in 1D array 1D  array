@@ -1,0 +1,10 @@
+def find_index(arr, num):
+    
+    if num in arr:
+        return arr.index(num)
+    else:
+        return -1  # Element not found
+    
+arr = [10, 20, 30, 40, 50]
+num = 30
+print("Index of", num, ":", find_index(arr, num))
