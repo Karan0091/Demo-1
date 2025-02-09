@@ -1,0 +1,20 @@
+git clone url
+
+git branch
+
+git checkout " branch name " // thise cmd is for the switch the branch 
+
+git checkout -b " newbranchname " // thise cmd is use for creating new branch 
+
+git add .
+
+git commit -m " commit msg "
+
+git push -u origin < branch name >
+
+
+
+
+
+
+
